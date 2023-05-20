@@ -1,0 +1,114 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "pokemon15",
+      "name": "Pokemon 15",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pokemon16",
+      "name": "Pokemon 16",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pokemon14",
+      "name": "Pokemon 14",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pokemon13",
+      "name": "Pokemon 13",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pokemon12",
+      "name": "Pokemon 12",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pokemon11",
+      "name": "Pokemon 11",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "pikachu1",
+      "name": "Pikachu 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pikachu2",
+      "name": "Pikachu 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pokemon1",
+      "name": "Pokemon 1",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "pokemon2",
+      "name": "Pokemon 2",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "pokemon3",
+      "name": "Pokemon 3",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "pokemon4",
+      "name": "Pokemon 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon5",
+      "name": "Pokemon 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon6",
+      "name": "Pokemon 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon7",
+      "name": "Pokemon 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon8",
+      "name": "Pokemon 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon9",
+      "name": "Pokemon 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon10",
+      "name": "Pokemon 10",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    }
+  ]
+}

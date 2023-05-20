@@ -1,0 +1,204 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "onepiece23",
+      "name": "One Piece 23",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece24",
+      "name": "One Piece 24",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece25",
+      "name": "One Piece 25",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "zorororonoa1",
+      "name": "Zoro Roronoa 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa2",
+      "name": "Zoro Roronoa 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa3",
+      "name": "Zoro Roronoa 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa4",
+      "name": "Zoro Roronoa 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa5",
+      "name": "Zoro Roronoa 5",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa6",
+      "name": "Zoro Roronoa 6",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa7",
+      "name": "Zoro Roronoa 7",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa8",
+      "name": "Zoro Roronoa 8",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece20",
+      "name": "Monkey D Luffy 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece21",
+      "name": "Monkey D Luffy 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece22",
+      "name": "Monkey D Luffy 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece17",
+      "name": "One Piece 17",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece18",
+      "name": "One Piece 18",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece19",
+      "name": "One Piece 19",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "onepiece16",
+      "name": "One Piece 16",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece15",
+      "name": "One Piece 15",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "onepiece14",
+      "name": "One Piece 14",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece13",
+      "name": "One Piece 13",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece12",
+      "name": "One Piece 12",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece11",
+      "name": "One Piece 11",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "onepiece1",
+      "name": "One Piece 1",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "onepiece2",
+      "name": "One Piece 2",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "onepiece3",
+      "name": "One Piece 3",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "onepiece4",
+      "name": "One Piece 4",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "onepiece5",
+      "name": "One Piece 5",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "onepiece6",
+      "name": "One Piece 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "onepiece7",
+      "name": "One Piece 7",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "onepiece8",
+      "name": "One Piece 8",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "onepiece9",
+      "name": "One Piece 9",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "onepiece10",
+      "name": "One Piece 10",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    }
+  ]
+}

@@ -1,0 +1,1662 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "myheroacademy1",
+      "name": "My Hero Academy (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "myheroacademy2",
+      "name": "My Hero Academy (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "myheroacademy3",
+      "name": "My Hero Academy (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "myheroacademy4",
+      "name": "My Hero Academy (4)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "evangelion14",
+      "name": "Evangelion 14",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "evangelion15",
+      "name": "Evangelion 15",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "onepunchman8",
+      "name": "One Punch Man 8",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepunchman9",
+      "name": "One Punch Man 9",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "demonslayer7",
+      "name": "Demon Slayer 7",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "demonslayer8",
+      "name": "Demon Slayer 8",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "demonslayer9",
+      "name": "Demon Slayer 9",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece23",
+      "name": "One Piece 23",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece24",
+      "name": "One Piece 24",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece25",
+      "name": "One Piece 25",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter7",
+      "name": "Hunter x Hunter 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter8",
+      "name": "Hunter x Hunter 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter9",
+      "name": "Hunter x Hunter 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter10",
+      "name": "Hunter x Hunter 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon12",
+      "name": "Sailor Moon 12",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "hunterxhunter5",
+      "name": "Hunter x Hunter 5",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "hunterxhunter6",
+      "name": "Hunter x Hunter 6",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "naruto22",
+      "name": "Naruto 22",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "dragonballz77",
+      "name": "Dragon Ball Z 77",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz78",
+      "name": "Dragon Ball Z 78",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "dragonballz79",
+      "name": "Dragon Ball Z 79",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz80",
+      "name": "Dragon Ball Z 80",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz74",
+      "name": "Dragon Ball Z 74",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz75",
+      "name": "Dragon Ball Z 75",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz76",
+      "name": "Dragon Ball Z 76",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "bluelock1",
+      "name": "Blue Lock 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "bluelock2",
+      "name": "Blue Lock 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "bluelock3",
+      "name": "Blue Lock 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kitsunebyakko1",
+      "name": "Kitsune 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kitsunebyakko2",
+      "name": "Kitsune 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kitsunebyakko3",
+      "name": "Kitsune 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote18",
+      "name": "Death Note 18",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote19",
+      "name": "Death Note 19",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon8",
+      "name": "Sailor Moon 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon9",
+      "name": "Sailor Moon 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon10",
+      "name": "Sailor Moon 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon11",
+      "name": "Sailor Moon 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "anyaforger1",
+      "name": "Anya Forger 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "anyaforger2",
+      "name": "Anya Forger 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "anyaforger3",
+      "name": "Anya Forger 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "anyaforger4",
+      "name": "Anya Forger 4",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "zorororonoa1",
+      "name": "Zoro Roronoa 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa2",
+      "name": "Zoro Roronoa 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa3",
+      "name": "Zoro Roronoa 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa4",
+      "name": "Zoro Roronoa 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa5",
+      "name": "Zoro Roronoa 5",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa6",
+      "name": "Zoro Roronoa 6",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa7",
+      "name": "Zoro Roronoa 7",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "zorororonoa8",
+      "name": "Zoro Roronoa 8",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece20",
+      "name": "Monkey D Luffy 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece21",
+      "name": "Monkey D Luffy 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece22",
+      "name": "Monkey D Luffy 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz72",
+      "name": "Dragon Ball Z 72",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz73",
+      "name": "Dragon Ball Z 73",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lelouch_ lamperouge1",
+      "name": "Lelouch Lamperouge 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ghostintheshell2",
+      "name": "Ghost In The Shell 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ghostintheshell1",
+      "name": "Ghost In The Shell 1",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "dragonballz70",
+      "name": "Dragon Ball Z 70",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz71",
+      "name": "Dragon Ball Z 71",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece17",
+      "name": "One Piece 17",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece18",
+      "name": "One Piece 18",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece19",
+      "name": "One Piece 19",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz68",
+      "name": "Dragon Ball Z 68",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ranma1",
+      "name": "Ranma 1/2 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ranma2",
+      "name": "Ranma 1/2 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ranma3",
+      "name": "Ranma 1/2 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ranma4",
+      "name": "Ranma 1/2 (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ranma5",
+      "name": "Ranma 1/2 (5)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pokemon15",
+      "name": "Pokemon 15",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pokemon16",
+      "name": "Pokemon 16",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "naruto20",
+      "name": "Naruto 20",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "naruto21",
+      "name": "Naruto 21",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz66",
+      "name": "Dragon Ball Z 66",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz67",
+      "name": "Dragon Ball Z 67",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "demonslayer4",
+      "name": "Demon Slayer (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer5",
+      "name": "Demon Slayer (5)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer6",
+      "name": "Demon Slayer (6)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "cowboybebopvid1",
+      "name": "Cowboy Bebop (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cowboybebopvid2",
+      "name": "Cowboy Bebop (2)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "cowboybebopvid3",
+      "name": "Cowboy Bebop (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz62",
+      "name": "Dragon Ball Z 62",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz63",
+      "name": "Dragon Ball Z 63",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz64",
+      "name": "Dragon Ball Z 64",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz65",
+      "name": "Dragon Ball Z 65",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "luckystarnicole1",
+      "name": "Lucky Star 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "luckystarnicole2",
+      "name": "Lucky Star 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "luckystarnicole3",
+      "name": "Lucky Star 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "luckystarnicole4",
+      "name": "Lucky Star 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "evangelion11",
+      "name": "Evangelion 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion12",
+      "name": "Evangelion 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion13",
+      "name": "Evangelion 13",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz59",
+      "name": "Dragon Ball Z 59",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz60",
+      "name": "Dragon Ball Z 60",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz61",
+      "name": "Dragon Ball Z 61",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepiece16",
+      "name": "One Piece 16",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sailormoon4",
+      "name": "Sailor Moon 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sailormoon5",
+      "name": "Sailor Moon 5",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sailormoon6",
+      "name": "Sailor Moon 6",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "sailormoon7",
+      "name": "Sailor Moon 7",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "spyxfamily1",
+      "name": "Spy X Family 1",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "spyxfamily2",
+      "name": "Spy X Family 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz58",
+      "name": "Dragon Ball Z 58",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "babyyoda1",
+      "name": "Baby Yoda 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "babyyoda2",
+      "name": "Baby Yoda 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz57",
+      "name": "Dragon Ball Z 57",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "naruto18",
+      "name": "Naruto 18",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "naruto19",
+      "name": "Naruto 19",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dbzsuper1",
+      "name": "Dragon Ball Z Super 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dbzsuper2",
+      "name": "Dragon Ball Z Super 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dbzsuper3",
+      "name": "Dragon Ball Z Super 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "kaguyasama1",
+      "name": "Kaguya- Sama 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz52",
+      "name": "Dragon Ball Z 52",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz53",
+      "name": "Dragon Ball Z 53",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz54",
+      "name": "Dragon Ball Z 54",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz55",
+      "name": "Dragon Ball Z 55",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz56",
+      "name": "Dragon Ball Z 56",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pokemon14",
+      "name": "Pokemon 14",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pokemon13",
+      "name": "Pokemon 13",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pokemon12",
+      "name": "Pokemon 12",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "naruto16",
+      "name": "Naruto 16",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "naruto17",
+      "name": "Naruto 17",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "saintseiya9",
+      "name": "Saint Seiya 9",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz50",
+      "name": "Dragon Ball Z 50",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz51",
+      "name": "Dragon Ball Z 51",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz49",
+      "name": "Dragon Ball Z 49",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz48",
+      "name": "Dragon Ball Z 48",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz47",
+      "name": "Dragon Ball Z 47",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "dragonballz46",
+      "name": "Dragon Ball Z 46",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "attackontitan11",
+      "name": "Attack on Titan 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz43",
+      "name": "Dragon Ball Z 43",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz44",
+      "name": "Dragon Ball Z 44",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz45",
+      "name": "Dragon Ball Z 45",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "fullmetal8",
+      "name": "Full Metal 8",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz42",
+      "name": "Dragon Ball Z 40",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "slamdunk1",
+      "name": "Slam Dunk 1",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "slamdunk2",
+      "name": "Slam Dunk 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "slamdunk3",
+      "name": "Slam Dunk 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "deathnote17",
+      "name": "Death Note 17",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "attackontitan10",
+      "name": "Attack on Titan 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz41",
+      "name": "Dragon Ball Z 41",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz40",
+      "name": "Dragon Ball Z 40",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dbzsuper3",
+      "name": "DBZ Super 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "deathnote16",
+      "name": "Death Note 16",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz38",
+      "name": "Dragon Ball Z 38",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz39",
+      "name": "Dragon Ball Z 39",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "shuumatsunovalkyrie1",
+      "name": "Shuumatsu Valkyrie",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "drslump1",
+      "name": "Dr Slump 1",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "drslump2",
+      "name": "Dr Slump 2",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "drstoneb",
+      "name": "Dr Stone",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "dbzsuper2",
+      "name": "DBZ Super 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "evangelion5b",
+      "name": "Evangelion 5",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "jujutsukaisen3",
+      "name": "Jujutsu Kaisen 3",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz37",
+      "name": "Dragon Ball Z 37",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "jujutsukaisen2",
+      "name": "Jujutsu Kaisen 2",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "girlsanime1",
+      "name": "Girls Anime 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "girlsanime2",
+      "name": "Girls Anime 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepunchman6",
+      "name": "One Punch Man 6",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "onepunchman7",
+      "name": "One Punch Man 7",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "fairytail6",
+      "name": "Fairy Tail 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fairytail7",
+      "name": "Fairy Tail 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dbzsuper1",
+      "name": "DBZ Super 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "deathnote15",
+      "name": "Death Note 15",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz36",
+      "name": "Dragon Ball Z 36",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "mirai1",
+      "name": "Mirai 1",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "mirai2",
+      "name": "Mirai 2",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "attackontitan8",
+      "name": "Attack on Titan 8",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "attackontitan9",
+      "name": "Attack on Titan 9",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz33",
+      "name": "Dragon Ball Z 33",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz34",
+      "name": "Dragon Ball Z 34",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz35",
+      "name": "Dragon Ball Z 35",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz31",
+      "name": "Dragon Ball Z 31",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz32",
+      "name": "Dragon Ball Z 32",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz30",
+      "name": "Dragon Ball Z 30",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz29",
+      "name": "Dragon Ball Z 29",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "dragonballz28",
+      "name": "Dragon Ball Z 28",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "onepunchman5",
+      "name": "One Punch Man 5",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "dragonballz27",
+      "name": "Dragon Ball Z 27",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz23",
+      "name": "Dragon Ball Z 23",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz24",
+      "name": "Dragon Ball Z 24",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz25",
+      "name": "Dragon Ball Z 25",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz26",
+      "name": "Dragon Ball Z 26",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "doraemon3",
+      "name": "Doraemon 3",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "doraemon4",
+      "name": "Doraemon 4",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "doraemon5",
+      "name": "Doraemon 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "doraemon6",
+      "name": "Doraemon 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "codegeass2",
+      "name": "Code Geass 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "evangelion10",
+      "name": "Evangelion 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "attackontitan7",
+      "name": "Attack on Titan 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "attackontitan5",
+      "name": "Attack on Titan 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "attackontitan6",
+      "name": "Attack on Titan 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "jujutsukaisen1",
+      "name": "Jujutsu Kaisen 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz22",
+      "name": "Dragon Ball Z 22",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "noragami1",
+      "name": "Noragami 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "fairytail1",
+      "name": "Fairy Tail 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fairytail2",
+      "name": "Fairy Tail 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fairytail3",
+      "name": "Fairy Tail 3",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fairytail4",
+      "name": "Fairy Tail 4",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "fairytail5",
+      "name": "Fairy Tail 5",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "animereactions1",
+      "name": "Anime Reactions 1",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "animereactions2",
+      "name": "Anime Reactions 2",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "animereactions3",
+      "name": "Anime Reactions 3",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "animereactions4",
+      "name": "Anime Reactions 4",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "hunterxhunter2",
+      "name": "Hunter x Hunter 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter3",
+      "name": "Hunter x Hunter 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter4",
+      "name": "Hunter x Hunter 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "codegeass1",
+      "name": "Code Geass 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz21",
+      "name": "Dragon Ball Z 21",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece14",
+      "name": "One Piece 14",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece15",
+      "name": "One Piece 15",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "onepunchman3",
+      "name": "One Punch Man 3",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "onepunchman4",
+      "name": "One Punch Man 4",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "dragonballz20",
+      "name": "Dragon Ball Z 20",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz19",
+      "name": "Dragon Ball Z 19",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "naruto15",
+      "name": "Naruto 15",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "deathnote13",
+      "name": "Death Note 13",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "deathnote14",
+      "name": "Death Note 14",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "dragonballz18",
+      "name": "Dragon Ball Z 18",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "rilakkumaandkaoru1",
+      "name": "Rilakkuma and Kaoru 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bokunohero1",
+      "name": "Bokuno Hero 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bokunohero2",
+      "name": "Bokuno Hero 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bokunohero3",
+      "name": "Bokuno Hero 3",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "attackontitan4",
+      "name": "Attack on Titan 4",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "mobpsycho100",
+      "name": "Mob Psycho 100",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sailormoon1",
+      "name": "Sailor Moon 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon2",
+      "name": "Sailor Moon 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon3",
+      "name": "Sailor Moon 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "toyoureternity1",
+      "name": "To Your Eternity 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ssssdynazenon1",
+      "name": "SSSS Dynazenon 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "nomadmegalobox2",
+      "name": "Nomad Megalobox 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "demonslayer2",
+      "name": "Demon Slayer 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer3",
+      "name": "Demon Slayer 3",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "saintseiya8",
+      "name": "Saint Seiya 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "saintseiya7",
+      "name": "Saint Seiya 7",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "saintseiya6",
+      "name": "Saint Seiya 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "reactiongirls1",
+      "name": "Reaction Girls 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "pokemon11",
+      "name": "Pokemon 11",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "onepunchman2",
+      "name": "One Punch Man 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepunchman1",
+      "name": "One Punch Man 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece13",
+      "name": "One Piece 13",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece12",
+      "name": "One Piece 12",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece11",
+      "name": "One Piece 11",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "naruto14",
+      "name": "Naruto 14",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naruto13",
+      "name": "Naruto 13",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naruto12",
+      "name": "Naruto 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fullmetal7",
+      "name": "Full Metal 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fullmetal6",
+      "name": "Full Metal 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion9",
+      "name": "Evangelion 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion8",
+      "name": "Evangelion 8",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz17",
+      "name": "Dragon Ball Z 17",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz16",
+      "name": "Dragon Ball Z 16",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz15",
+      "name": "Dragon Ball Z 15",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz14",
+      "name": "Dragon Ball Z 14",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz13",
+      "name": "Dragon Ball Z 13",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz12",
+      "name": "Dragon Ball Z 12",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz11",
+      "name": "Dragon Ball Z 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote12",
+      "name": "Death Note 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "azurlane1",
+      "name": "Azur Lane 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "azurlane2",
+      "name": "Azur Lane 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "attackontitan3",
+      "name": "Attack on Titan 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "attackontitan2",
+      "name": "Attack on Titan 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "pikachu1",
+      "name": "Pikachu 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pikachu2",
+      "name": "Pikachu 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "naruto11",
+      "name": "Naruto 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote11",
+      "name": "Death Note 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz10",
+      "name": "Dragon Ball Z 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "evangelion7",
+      "name": "Evangelion 7",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "fullmetal5",
+      "name": "Full Metal 5",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "naruto10",
+      "name": "Naruto 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "onepiece10",
+      "name": "One Piece 10",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "sailormoon",
+      "name": "Sailor Moon",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "pokemon10",
+      "name": "Pokemon 10",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "saintseiya5",
+      "name": "Saint Seiya 5",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    }
+  ]
+}

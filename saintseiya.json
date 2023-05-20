@@ -1,0 +1,60 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "saintseiya9",
+      "name": "Saint Seiya 9",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "saintseiya8",
+      "name": "Saint Seiya 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "saintseiya7",
+      "name": "Saint Seiya 7",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "saintseiya6",
+      "name": "Saint Seiya 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "saintseiya1",
+      "name": "Saint Seiya 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "saintseiya2",
+      "name": "Saint Seiya 2",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "saintseiya3",
+      "name": "Saint Seiya 3",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "saintseiya4",
+      "name": "Saint Seiya 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "saintseiya5",
+      "name": "Saint Seiya 5",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    }
+  ]
+}

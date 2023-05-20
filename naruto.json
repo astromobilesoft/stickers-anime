@@ -1,0 +1,138 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "naruto22",
+      "name": "Naruto 22",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "naruto20",
+      "name": "Naruto 20",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "naruto21",
+      "name": "Naruto 21",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "naruto18",
+      "name": "Naruto 18",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "naruto19",
+      "name": "Naruto 19",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "naruto16",
+      "name": "Naruto 16",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "naruto17",
+      "name": "Naruto 17",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "naruto15",
+      "name": "Naruto 15",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "naruto14",
+      "name": "Naruto 14",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naruto13",
+      "name": "Naruto 13",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naruto12",
+      "name": "Naruto 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "naruto11",
+      "name": "Naruto 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "naruto1",
+      "name": "Naruto 1",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "naruto2",
+      "name": "Naruto 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "naruto3",
+      "name": "Naruto 3",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "naruto4",
+      "name": "Naruto 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "naruto5",
+      "name": "Naruto 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "naruto6",
+      "name": "Naruto 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "naruto7",
+      "name": "Naruto 7",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "naruto8",
+      "name": "Naruto 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "naruto9",
+      "name": "Naruto 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "naruto10",
+      "name": "Naruto 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

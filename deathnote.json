@@ -1,0 +1,120 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "deathnote18",
+      "name": "Death Note 18",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote19",
+      "name": "Death Note 19",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote17",
+      "name": "Death Note 17",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "deathnote16",
+      "name": "Death Note 16",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "deathnote15",
+      "name": "Death Note 15",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote13",
+      "name": "Death Note 13",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "deathnote14",
+      "name": "Death Note 14",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "deathnote12",
+      "name": "Death Note 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote1",
+      "name": "Death Note 1",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote2",
+      "name": "Death Note 2",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote3",
+      "name": "Death Note 3",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "deathnote4",
+      "name": "Death Note 4",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote5",
+      "name": "Death Note 5",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote6",
+      "name": "Death Note 6",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote7",
+      "name": "Death Note 7",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote8",
+      "name": "Death Note 8",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote9",
+      "name": "Death Note 9",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "deathnote10",
+      "name": "Death Note 10",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "deathnote11",
+      "name": "Death Note 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

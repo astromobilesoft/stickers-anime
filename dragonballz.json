@@ -1,0 +1,498 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "dragonballz77",
+      "name": "Dragon Ball Z 77",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz78",
+      "name": "Dragon Ball Z 78",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "dragonballz79",
+      "name": "Dragon Ball Z 79",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz80",
+      "name": "Dragon Ball Z 80",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz74",
+      "name": "Dragon Ball Z 74",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz75",
+      "name": "Dragon Ball Z 75",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz76",
+      "name": "Dragon Ball Z 76",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz72",
+      "name": "Dragon Ball Z 72",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz73",
+      "name": "Dragon Ball Z 73",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz70",
+      "name": "Dragon Ball Z 70",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz71",
+      "name": "Dragon Ball Z 71",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz68",
+      "name": "Dragon Ball Z 68",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz66",
+      "name": "Dragon Ball Z 66",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz67",
+      "name": "Dragon Ball Z 67",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz62",
+      "name": "Dragon Ball Z 62",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz63",
+      "name": "Dragon Ball Z 63",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz64",
+      "name": "Dragon Ball Z 64",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz65",
+      "name": "Dragon Ball Z 65",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "dragonballz59",
+      "name": "Dragon Ball Z 59",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz60",
+      "name": "Dragon Ball Z 60",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz61",
+      "name": "Dragon Ball Z 61",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz58",
+      "name": "Dragon Ball Z 58",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "dragonballz57",
+      "name": "Dragon Ball Z 57",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dbzsuper1",
+      "name": "Dragon Ball Z Super 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dbzsuper2",
+      "name": "Dragon Ball Z Super 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dbzsuper3",
+      "name": "Dragon Ball Z Super 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz52",
+      "name": "Dragon Ball Z 52",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz53",
+      "name": "Dragon Ball Z 53",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz54",
+      "name": "Dragon Ball Z 54",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz55",
+      "name": "Dragon Ball Z 55",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz56",
+      "name": "Dragon Ball Z 56",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz50",
+      "name": "Dragon Ball Z 501",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz51",
+      "name": "Dragon Ball Z 51",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz49",
+      "name": "Dragon Ball Z 49",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz48",
+      "name": "Dragon Ball Z 48",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz47",
+      "name": "Dragon Ball Z 47",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "dragonballz46",
+      "name": "Dragon Ball Z 46",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "dragonballz43",
+      "name": "Dragon Ball Z 43",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz44",
+      "name": "Dragon Ball Z 44",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz45",
+      "name": "Dragon Ball Z 45",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "dragonballz42",
+      "name": "Dragon Ball Z 42",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz41",
+      "name": "Dragon Ball Z 41",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz40",
+      "name": "Dragon Ball Z 40",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz38",
+      "name": "Dragon Ball Z 38",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz39",
+      "name": "Dragon Ball Z 39",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz37",
+      "name": "Dragon Ball Z 37",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz36",
+      "name": "Dragon Ball Z 36",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dragonballz33",
+      "name": "Dragon Ball Z 33",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz34",
+      "name": "Dragon Ball Z 34",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz35",
+      "name": "Dragon Ball Z 35",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz31",
+      "name": "Dragon Ball Z 31",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz32",
+      "name": "Dragon Ball Z 32",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz30",
+      "name": "Dragon Ball Z 30",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz29",
+      "name": "Dragon Ball Z 29",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "dragonballz28",
+      "name": "Dragon Ball Z 28",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz27",
+      "name": "Dragon Ball Z 27",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz23",
+      "name": "Dragon Ball Z 23",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz24",
+      "name": "Dragon Ball Z 24",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz25",
+      "name": "Dragon Ball Z 25",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz26",
+      "name": "Dragon Ball Z 26",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dragonballz22",
+      "name": "Dragon Ball Z 22",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "dragonballz21",
+      "name": "Dragon Ball Z 21",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz20",
+      "name": "Dragon Ball Z 20",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz19",
+      "name": "Dragon Ball Z 19",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "dragonballz18",
+      "name": "Dragon Ball Z 18",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "dragonballz17",
+      "name": "Dragon Ball Z 17",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz16",
+      "name": "Dragon Ball Z 16",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz15",
+      "name": "Dragon Ball Z 15",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz14",
+      "name": "Dragon Ball Z 14",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz13",
+      "name": "Dragon Ball Z 13",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz12",
+      "name": "Dragon Ball Z 12",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz11",
+      "name": "Dragon Ball Z 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dragonballz1",
+      "name": "Dragon Ball Z 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz2",
+      "name": "Dragon Ball Z 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz3",
+      "name": "Dragon Ball Z 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz4",
+      "name": "Dragon Ball Z 4",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "dragonballz5",
+      "name": "Dragon Ball Z 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz6",
+      "name": "Dragon Ball Z 6",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "dragonballz7",
+      "name": "Dragon Ball Z 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz8",
+      "name": "Dragon Ball Z 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dragonballz9",
+      "name": "Dragon Ball Z 9",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "dragonballz10",
+      "name": "Dragon Ball Z 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

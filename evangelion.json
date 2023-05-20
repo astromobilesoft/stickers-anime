@@ -1,0 +1,96 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "evangelion14",
+      "name": "Evangelion 14",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "evangelion15",
+      "name": "Evangelion 15",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "evangelion11",
+      "name": "Evangelion 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion12",
+      "name": "Evangelion 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion13",
+      "name": "Evangelion 13",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion5b",
+      "name": "Evangelion 5",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "evangelion10",
+      "name": "Evangelion 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion9",
+      "name": "Evangelion 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion8",
+      "name": "Evangelion 8",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "evangelion1",
+      "name": "Evangelion 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "evangelion2",
+      "name": "Evangelion 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "evangelion3",
+      "name": "Evangelion 3",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "evangelion4",
+      "name": "Evangelion 4",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "evangelion6",
+      "name": "Evangelion 6",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "evangelion7",
+      "name": "Evangelion 7",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    }
+  ]
+}

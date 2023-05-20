@@ -1,0 +1,54 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.antspace.stickers.anime",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "fullmetal8",
+      "name": "Full Metal 8",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "fullmetal7",
+      "name": "Full Metal 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fullmetal6",
+      "name": "Full Metal 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fullmetal1",
+      "name": "Full Metal 1",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "fullmetal2",
+      "name": "Full Metal 2",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "fullmetal3",
+      "name": "Full Metal 3",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "fullmetal4",
+      "name": "Full Metal 4",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "fullmetal5",
+      "name": "Full Metal 5",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    }
+  ]
+}
