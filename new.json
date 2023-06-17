@@ -3,6 +3,60 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "onepiece26",
+      "name": "One Piece 26",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece27",
+      "name": "One Piece 27",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "saintseiya10",
+      "name": "Saint Seiya 10",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "saintseiya11",
+      "name": "Saint Seiya 11",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "saintseiya10",
+      "name": "Saint Seiya 12",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "saintseiya10",
+      "name": "Saint Seiya 13",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier":"buddydaddies1",
+      "name":"Buddy Daddies (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier":"buddydaddies2",
+      "name":"Buddy Daddies (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier":"buddydaddies3",
+      "name":"Buddy Daddies (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "myheroacademy1",
       "name": "My Hero Academy (1)",
       "animated_sticker_pack": true,
