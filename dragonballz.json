@@ -3,6 +3,36 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "dragonballz81",
+      "name": "Dragon Ball Z 81",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz82",
+      "name": "Dragon Ball Z 82",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz83",
+      "name": "Dragon Ball Z 83",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz84",
+      "name": "Dragon Ball Z 84",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dragonballz85",
+      "name": "Dragon Ball Z 85",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "dragonballz77",
       "name": "Dragon Ball Z 77",
       "animated_sticker_pack": false,
