@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"scarletbond1",
+      "name":"Scarlet Bond (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier":"scarletbond2",
+      "name":"Scarlet Bond (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier":"scarletbond3",
+      "name":"Scarlet Bond (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier":"buddydaddies1",
       "name":"Buddy Daddies (1)",
       "animated_sticker_pack": true,
