@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"mashle1",
+      "name":"Mashle (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier":"mashle2",
+      "name":"Mashle (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier":"mashle3",
+      "name":"Mashle (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier":"scarletbond1",
       "name":"Scarlet Bond (1)",
       "animated_sticker_pack": true,
