@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"sailormoon16",
+      "name":"Sailor Moon (16)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier":"sailormoon17",
+      "name":"Sailor Moon (17)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
       "identifier":"sailormoon13",
       "name":"Sailor Moon (13)",
       "animated_sticker_pack": false,
