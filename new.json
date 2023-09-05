@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pikachu3",
+      "name": "Pikachu 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pikachu4",
+      "name": "Pikachu 4",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "onepiece28",
       "name": "One Piece (28)",
       "animated_sticker_pack": false,
