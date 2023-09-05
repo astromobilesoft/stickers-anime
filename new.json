@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "myheroacademy7",
+      "name": "My Hero Academy (7)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "myheroacademy6",
+      "name": "My Hero Academy (6)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "myheroacademy5",
+      "name": "My Hero Academy (5)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "pikachu3",
       "name": "Pikachu 3",
       "animated_sticker_pack": false,
