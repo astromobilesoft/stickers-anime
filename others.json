@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "onepunchman10",
+      "name": "One Punch Man (10)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepunchman11",
+      "name": "One Punch Man (11)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "onepunchman12",
+      "name": "One Punch Man (12)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "myheroacademy7",
       "name": "My Hero Academy (7)",
       "animated_sticker_pack": true,
