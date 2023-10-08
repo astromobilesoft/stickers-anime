@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "hunterxhunter11",
+      "name": "Hunter x Hunter (11)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter12",
+      "name": "Hunter x Hunter (12)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter13",
+      "name": "Hunter x Hunter (13)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hunterxhunter14",
+      "name": "Hunter x Hunter (14)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "onepunchman10",
       "name": "One Punch Man (10)",
       "animated_sticker_pack": true,
