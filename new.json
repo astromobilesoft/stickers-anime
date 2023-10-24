@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "honkai1",
+      "name": "Honkai: Star Rail (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "honkai2",
+      "name": "Honkai: Star Rail (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "honkai3",
+      "name": "Honkai: Star Rail (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "hunterxhunter11",
       "name": "Hunter x Hunter (11)",
       "animated_sticker_pack": true,
