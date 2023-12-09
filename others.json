@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "haruhisuzumiya1",
+      "name": "Haruhi Suzumiya (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "haruhisuzumiya2",
+      "name": "Haruhi Suzumiya (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier":"sailormoon18",
       "name":"Sailor Moon (18)",
       "animated_sticker_pack": false,
