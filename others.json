@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "hunterxhunter15",
+      "name": "Hunter x Hunter (15)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "hunterxhunter16",
+      "name": "Hunter x Hunter (16)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "hunterxhunter17",
+      "name": "Hunter x Hunter (17)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "haruhisuzumiya1",
       "name": "Haruhi Suzumiya (1)",
       "animated_sticker_pack": true,
