@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "xielian1",
+      "name": "Xie Lian (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "xielian2",
+      "name": "Xie Lian (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "xielian3",
+      "name": "Xie Lian (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "hunterxhunter15",
       "name": "Hunter x Hunter (15)",
       "animated_sticker_pack": true,
