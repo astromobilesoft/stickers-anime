@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "yu-gi-oh!1",
+      "name": "Yu-Gi-Oh! (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "yu-gi-oh!2",
+      "name": "Yu-Gi-Oh! (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "yu-gi-oh!3",
+      "name": "Yu-Gi-Oh! (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "yu-gi-oh!4",
+      "name": "Yu-Gi-Oh! (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "xielian1",
       "name": "Xie Lian (1)",
       "animated_sticker_pack": true,
