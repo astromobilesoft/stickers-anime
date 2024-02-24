@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "oshinoko_kana1",
+      "name": "Oshi No Ko - kana (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "oshinoko_kana2",
+      "name": "Oshi No Ko - kana (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "oshinoko_kana3",
+      "name": "Oshi No Ko - kana (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "oshinoko_kana4",
+      "name": "Oshi No Ko - kana (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "yu-gi-oh1",
       "name": "Yu-Gi-Oh! (1)",
       "animated_sticker_pack": true,
