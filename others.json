@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "demonslayer10",
+      "name": "Demon Slayer 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer11",
+      "name": "Demon Slayer 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer12",
+      "name": "Demon Slayer 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer13",
+      "name": "Demon Slayer 13",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "oshinoko_kana1",
       "name": "Oshi No Ko - kana (1)",
       "animated_sticker_pack": true,
