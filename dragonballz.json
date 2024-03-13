@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "dragonballz90",
+      "name": "DBZ La Resurrección de F",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "dragonballz86",
       "name": "Dragon Ball Z 86",
       "animated_sticker_pack": true,
