@@ -3,6 +3,42 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "cyberpunkedgerunners1",
+      "name": "Cyberpunk Edgerunners 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cyberpunkedgerunners2",
+      "name": "Cyberpunk Edgerunners 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+        {
+      "identifier": "cyberpunkedgerunners3",
+      "name": "Cyberpunk Edgerunners 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cyberpunkedgerunners4",
+      "name": "Cyberpunk Edgerunners 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cyberpunkedgerunners5",
+      "name": "Cyberpunk Edgerunners 5",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cyberpunkedgerunners6",
+      "name": "Cyberpunk Edgerunners 6",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
       "identifier": "dragonballz90",
       "name": "DBZ La Resurrección de F",
       "animated_sticker_pack": true,
