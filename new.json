@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "shadowverseflame1",
+      "name": "Shadowverse Flame 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "shadowverseflame2",
+      "name": "Shadowverse Flame 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "shadowverseflame3",
+      "name": "Shadowverse Flame 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "shadowverseflame4",
+      "name": "Shadowverse Flame 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "cyberpunkedgerunners1",
       "name": "Cyberpunk Edgerunners 1",
       "animated_sticker_pack": true,
