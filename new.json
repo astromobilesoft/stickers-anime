@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pokemon17",
+      "name": "Pokemon 17",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pokemon18",
+      "name": "Pokemon 18",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pokemon19",
+      "name": "Pokemon 19",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
       "identifier": "shadowverseflame1",
       "name": "Shadowverse Flame 1",
       "animated_sticker_pack": true,
