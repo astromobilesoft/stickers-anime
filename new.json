@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "onepiece37",
+      "name": "One Piece 37",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece36",
+      "name": "One Piece 36",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece35",
+      "name": "One Piece 35",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece34",
+      "name": "One Piece 34",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
       "identifier": "pokemon17",
       "name": "Pokemon 17",
       "animated_sticker_pack": true,
