@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "onepunchman13",
+      "name": "One Punch Man (13)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepunchman14",
+      "name": "One Punch Man (14)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepunchman15",
+      "name": "One Punch Man (15)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepunchman16",
+      "name": "One Punch Man (16)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "onepiece37",
       "name": "One Piece 37",
       "animated_sticker_pack": true,
