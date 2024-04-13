@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "nikolaigogol1",
+      "name": "Nikolai Gogol (1)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "nikolaigogol2",
+      "name": "Nikolai Gogol (2)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
       "identifier": "onepunchman13",
       "name": "One Punch Man (13)",
       "animated_sticker_pack": true,
