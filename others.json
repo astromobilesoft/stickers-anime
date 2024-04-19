@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "jujutsukaisen4",
+      "name": "Jujutsu Kaisen 4",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "jujutsukaisen5",
+      "name": "Jujutsu Kaisen 5",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
       "identifier": "nikolaigogol1",
       "name": "Nikolai Gogol (1)",
       "animated_sticker_pack": true,
