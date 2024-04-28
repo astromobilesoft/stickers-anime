@@ -3,6 +3,36 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "beybladeburst1",
+      "name": "Beyblade Burst 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "beybladeburst2",
+      "name": "Beyblade Burst 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "beybladeburst3",
+      "name": "Beyblade Burst 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "jujutsukaisen7",
+      "name": "Jujutsu Kaisen 7",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "jujutsukaisen6",
+      "name": "Jujutsu Kaisen 6",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
       "identifier": "jujutsukaisen4",
       "name": "Jujutsu Kaisen 4",
       "animated_sticker_pack": true,
