@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "madoka1",
+      "name": "Madoka Magi (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "madoka2",
+      "name": "Madoka Magi (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "madoka3",
+      "name": "Madoka Magi (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "fullmetal9",
       "name": "Full Metal 9",
       "animated_sticker_pack": false,
