@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "attackontitan12",
+      "name": "Attack on Titan 12",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "attackontitan13",
+      "name": "Attack on Titan 13",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
       "identifier": "madoka1",
       "name": "Madoka Magi (1)",
       "animated_sticker_pack": true,
