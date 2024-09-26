@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "sailormoon20",
+      "name": "Sailor Moon 20",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "sailormoon21",
+      "name": "Sailor Moon 21",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sailormoon22",
+      "name": "Sailor Moon 22",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "dragonballz93",
       "name": "Dragon Ball Z 93",
       "animated_sticker_pack": false,
