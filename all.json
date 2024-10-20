@@ -3,6 +3,48 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "bleach1",
+      "name": "Bleach 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bleach2",
+      "name": "Bleach 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bleach3",
+      "name": "Bleach 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bleach4",
+      "name": "Bleach 4",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bleach5",
+      "name": "Bleach 5",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bleach6",
+      "name": "Bleach 6",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "saintseiya14",
+      "name": "Saint Seiya 14",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
       "identifier": "sailormoon20",
       "name": "Sailor Moon 20",
       "animated_sticker_pack": true,
