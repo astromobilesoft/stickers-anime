@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "attackontitan14",
+      "name": "Attack on Titan 14",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "attackontitan15",
+      "name": "Attack on Titan 15",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "attackontitan16",
+      "name": "Attack on Titan 16",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "bleach1",
       "name": "Bleach 1",
       "animated_sticker_pack": false,
