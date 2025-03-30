@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "dragonballz99",
+      "name": "Dragon Ball Z 99",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "dragonballz100",
+      "name": "Dragon Ball Z 100",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "dragonballz97",
       "name": "Dragon Ball Z 97",
       "animated_sticker_pack": false,
