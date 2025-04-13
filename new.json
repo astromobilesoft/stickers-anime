@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "bleach7",
+      "name": "Bleach 7",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bleach8",
+      "name": "Bleach 8",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "dragonballz99",
       "name": "Dragon Ball Z 99",
       "animated_sticker_pack": false,
