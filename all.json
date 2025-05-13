@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "saintseiya15",
+      "name": "Saint Seiya 15",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "saintseiya16",
+      "name": "Saint Seiya 16",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "saintseiya17",
+      "name": "Saint Seiya 17",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "saintseiya18",
+      "name": "Saint Seiya 18",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "onepiece38",
       "name": "One Piece 38",
       "animated_sticker_pack": false,
