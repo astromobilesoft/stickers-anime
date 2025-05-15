@@ -3,6 +3,36 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "myheroacademy8",
+      "name": "My Hero Academy (8)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "myheroacademy9",
+      "name": "My Hero Academy (9)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "myheroacademy10",
+      "name": "My Hero Academy (10)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "myheroacademy11",
+      "name": "My Hero Academy (11)",
+      "animated_sticker_pack": false,
+      "stickers": "6"
+    },
+    {
+      "identifier": "myheroacademy12",
+      "name": "My Hero Academy (12)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "saintseiya15",
       "name": "Saint Seiya 15",
       "animated_sticker_pack": false,
