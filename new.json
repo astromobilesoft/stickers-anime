@@ -3,6 +3,78 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "megaman1",
+      "name": "Megaman (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman2",
+      "name": "Megaman (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman3",
+      "name": "Megaman (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman4",
+      "name": "Megaman (4)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman5",
+      "name": "Megaman (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman6",
+      "name": "Megaman (6)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman7",
+      "name": "Megaman (7)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman8",
+      "name": "Megaman (8)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman9",
+      "name": "Megaman (9)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman10",
+      "name": "Megaman (10)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman11",
+      "name": "Megaman (11)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "megaman12",
+      "name": "Megaman (12)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
       "identifier": "myheroacademy8",
       "name": "My Hero Academia (8)",
       "animated_sticker_pack": false,
