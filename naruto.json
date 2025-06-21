@@ -3,6 +3,42 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "naruto25",
+      "name": "Naruto 25",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "naruto26",
+      "name": "Naruto 26",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "naruto27",
+      "name": "Naruto 27",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "naruto28",
+      "name": "Naruto 28",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "naruto29",
+      "name": "Naruto 29",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "naruto30",
+      "name": "Naruto 30",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "naruto23",
       "name": "Naruto 23",
       "animated_sticker_pack": false,
