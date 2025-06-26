@@ -3,6 +3,54 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "spongebob1",
+      "name": "Sponge Bob (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob2",
+      "name": "Sponge Bob (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob3",
+      "name": "Sponge Bob (3)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob4",
+      "name": "Sponge Bob (4)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob5",
+      "name": "Sponge Bob (5)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob6",
+      "name": "Sponge Bob (6)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob7",
+      "name": "Sponge Bob (7)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "spongebob8",
+      "name": "Sponge Bob (8)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "ninjaturtles1",
       "name": "Ninja Turtles (1)",
       "animated_sticker_pack": false,
