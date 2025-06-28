@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pokemon20",
+      "name": "Pokemon 20",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pokemon21",
+      "name": "Pokemon 21",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pokemon22",
+      "name": "Pokemon 22",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pokemon23",
+      "name": "Pokemon 23",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },    
+    {
       "identifier": "spongebob1",
       "name": "Sponge Bob (1)",
       "animated_sticker_pack": false,
