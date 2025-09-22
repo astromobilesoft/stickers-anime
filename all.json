@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "onepiece40",
+      "name": "One Piece 40",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece41",
+      "name": "One Piece 41",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece42",
+      "name": "One Piece 42",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece43",
+      "name": "One Piece 43",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },    
+    {
       "identifier": "dragonballz126",
       "name": "Dragon Ball Z 126",
       "animated_sticker_pack": true,
