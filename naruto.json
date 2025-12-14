@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "naruto31",
+      "name": "Naruto 31",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },  
+    {
+      "identifier": "naruto32",
+      "name": "Naruto 32",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },  
+    {
       "identifier": "naruto25",
       "name": "Naruto 25",
       "animated_sticker_pack": false,
