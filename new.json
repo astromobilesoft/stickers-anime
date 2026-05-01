@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "diadeltrabajo",
+      "name": "Worker's day",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "demonslayer14",
       "name": "Demon Slayer 14",
       "animated_sticker_pack": true,
