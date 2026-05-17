@@ -3,6 +3,66 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pokemon24",
+      "name": "Pokemon 24",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon25",
+      "name": "Pokemon 25",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon26",
+      "name": "Pokemon 26",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon27",
+      "name": "Pokemon 27",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon28",
+      "name": "Pokemon 28",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon29",
+      "name": "Pokemon 29",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon30",
+      "name": "Pokemon 30",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon31",
+      "name": "Pokemon 31",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon32",
+      "name": "Pokemon 32",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon33",
+      "name": "Pokemon 33",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },    
+    {
       "identifier": "diadeltrabajo",
       "name": "Worker's day",
       "animated_sticker_pack": false,
