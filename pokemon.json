@@ -3,6 +3,66 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pokemon34",
+      "name": "Pokemon 34",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon35",
+      "name": "Pokemon 35",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon36",
+      "name": "Pokemon 36",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon37",
+      "name": "Pokemon 37",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon38",
+      "name": "Pokemon 38",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon39",
+      "name": "Pokemon 39",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon40",
+      "name": "Pokemon 40",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon41",
+      "name": "Pokemon 41",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon42",
+      "name": "Pokemon 42",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pokemon43",
+      "name": "Pokemon 43",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },    
+    {
       "identifier": "pokemon24",
       "name": "Pokemon 24",
       "animated_sticker_pack": false,
