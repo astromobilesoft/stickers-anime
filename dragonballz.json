@@ -1,13 +1,7 @@
 {
   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.anime",
   "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "dragonballz129",
-      "name": "Dragon Ball Z 129",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    }, 
+  "sticker_packs": [ 
     {
       "identifier": "dragonballz126",
       "name": "Dragon Ball Z 126",
