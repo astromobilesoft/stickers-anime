@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "onepiece61",
+      "name": "One Piece 61",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },   
+    {
+      "identifier": "onepiece62",
+      "name": "One Piece 62",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },   
+    {
+      "identifier": "onepiece63",
+      "name": "One Piece 63",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },   
+    {
+      "identifier": "onepiece64",
+      "name": "One Piece 64",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },               
+    {
       "identifier": "onepiece60",
       "name": "One Piece 60",
       "animated_sticker_pack": true,
